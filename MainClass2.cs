@@ -1,3 +1,3 @@
 class MainClass2 {
-    private readonly MainClass3 mainClass3 = new();
+    private readonly MainClass2 mainClass2 = new();
 }
